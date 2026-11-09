@@ -1,0 +1,15 @@
+# Godot
+.godot/
+*.translation
+
+# сборки и кадры не храним в репозитории
+build/
+*.exe
+*.apk
+*.pck
+*.wasm
+
+# служебное
+tools/android/
+*.zip
+.DS_Store
